@@ -4,7 +4,7 @@
 #include "framework.h"
 #include "var.h"
 
-#define PW "6hoOray9#"
+#define PW "6hoOray9#" //Password for authorization
 
 CPasswordDlg::CPasswordDlg(CWnd* pParent /*=nullptr*/)
 	:CDialogEx(IDD_PASSWORD, pParent)
